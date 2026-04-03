@@ -1,6 +1,4 @@
-### Hi, I'm Jonas 👋
+### Hi, I'm Jonas 🦖
 
-I'm a Kooperative Master Student @HTWSaar from Saarland/Germany. I like working learning new technologies, and contributing to the new projects.
-
-- 🔭 I’m currently working on my portfolio page.
-- 🧑‍🔧 I like working on my Homelab and Smart Home
+Software Engineering Working Student | M.Sc. Computer Science @ HTW Saar  
+Building scalable web applications and exploring modern software systems
